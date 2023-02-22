@@ -110,26 +110,26 @@ terminals_DDMMYYYY.xlsx.backup
 1. Загрузка в classroom.
 В classroom выкладывается zip-архив, содержащий следующие файлы и каталоги:
 
-- main.py 
+- main.py - Файл, обязательный Основной процесс обработки.
 
 <a style="display:block" href="https://github.com/Art9050/DataEngineering/blob/main/final_project/main.py">
   <div class="xyz">main.py</div>
 </a>
-Файл, обязательный Основной процесс обработки.
-- файлы с данными 
-Файл, Те файлы, которые вы обязательный получили в качестве задания. Просто скопируйте все 9 файлов.
-- main.ddl 
+
+- файлы с данными - Файл, Те файлы, которые вы обязательный получили в качестве задания. Просто скопируйте все 9 файлов.
+
+- main.ddl - Файл, Файл с SQL кодом для обязательный создания всех необходимых объектов в базе.
 
 <a style="display:block" href="https://github.com/Art9050/DataEngineering/blob/main/final_project/main.ddl">
   <div class="xyz">main.ddl</div>
 </a>
-Файл, Файл с SQL кодом для обязательный создания всех необходимых объектов в базе .
-- main.cron 
+
+- main.cron - Файл, Файл для постановки обязательный вашего процесса на расписание, в формате crontab
 
 <a style="display:block" href="https://github.com/Art9050/DataEngineering/blob/main/final_project/main.cron">
   <div class="xyz">main.cron</div>
 </a>
-Файл, Файл для постановки обязательный вашего процесса на расписание, в формате crontab
+
 - archive 
 Каталог, Пустой, сюда должны обязательный перемещаться отработанные файлы
 - sql_scripts
