@@ -1,22 +1,39 @@
 # DataEngineering
 SberUniversity. Program "Data Engineer"
-August 29, 2022 -  February 28, 2023
+29 August 2022 -  28 February 2023
 
-<div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://img2.joyreactor.cc/pics/post/%D0%B3%D0%B8%D1%84%D0%BA%D0%B8- %D1%81%D0%B0%D0%BC%D1%81%D1%83%D0%BD%D0%B3-%D0%B2%D0%B7%D1%80%D1%8B%D0%B2%D0%BE%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%A1%D0%B8%D0%BC%D0%BF%D1%81%D0%BE%D0%BD%D1%8B-3419525.gif)" width="100"/>
-</div>
+### Basic module 
+*29 August 2022 - 31 October 2022*
 
-<a style="display:block" href="https://github.com/Art9050/DataEngineering/tree/main/final_project">
-  <div class="xyz">Final Project</div>
-</a>
+[Basic module: home works](https://github.com/Art9050/DataEngineering/tree/main/Basic%20module_home_works "Необязательная подсказка")
+#### Topics:
+- Python
+- SQL
+
+### Profile module
+*31 October 2022 – 28 February 2023*
+
+[Profile module: home works](https://github.com/Art9050/DataEngineering/tree/main/home_works "Необязательная подсказка")
+
+[Final Project](https://github.com/Art9050/DataEngineering/tree/main/final_project "Необязательная подсказка")
+#### Topics:
++ database design;
++ review of DDL, DML, a few words about TCL;
++ aggregation, union, join;
++ work with time;
++ data cleaning;
++ regular expressions;
++ basics of Python and SQLite;
++ window (analytical) functions;
++ fundamentals of data warehouses;
++ data storage patterns;
++ incremental loading;
++ master data management;
++ basics: *nix, bash, cron
+
 
 <!--
-- Базовый модуль 
-August 29, 2022 - 31.10.2022
-Python, SQL
-
-- Профильный модуль 
-31.10.2022 – 28.02.2023
+https://gist.github.com/Jekins/2bf2d0638163f1294637#Parag
 
 Слушатели научатся настраивать и автоматизировать процессы сбора, трансформации, очистки, хранения и первичного анализа данных с помощью SQL и Python на примерах реальных задач, реализует собственный проект! Проект составлен в виде типичного технического задания, которое получает Data Engineer в рамках выполнения своей работы, и позволит участникам курса решить задачу, максимально приближенную к рабочей, с нуля реализовав полноценный ETL процесс.
 
