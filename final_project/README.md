@@ -12,20 +12,19 @@
 2. Список терминалов полным срезом. Формат – XLSX.
 3. Список паспортов, включенных в «черный список» - с накоплением с
 начала месяца. Формат – XLSX.
+
 <a style="display:block" href="https://drive.google.com/drive/folders/1IyL5ma2G_eKLn119nscUDakTCNQTOFka?usp=sharing">
-  <div class="xyz">Данные</div>
+  <div class="xyz">Файлы данных</div>
 </a> 
-[Данные](https://drive.google.com/drive/folders/1IyL5ma2G_eKLn119nscUDakTCNQTOFka?usp=sharing)
 
 Сведения о картах, счетах и клиентах хранятся в СУБД PostgreSQL.
 
-
 Реквизиты для подключения:
-• Host: 
-• Port: 
-• Database: 
-• User: 
-• Password: 
+- Host: 
+- Port: 
+- Database: 
+- User: 
+- Password: 
 
 Вам предоставляется выгрузка за последние три дня, ее надо обработать.
 Структура хранилища.
