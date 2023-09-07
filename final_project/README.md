@@ -15,6 +15,8 @@
 <a style="display:block" href="https://drive.google.com/drive/folders/1IyL5ma2G_eKLn119nscUDakTCNQTOFka?usp=sharing">
   <div class="xyz">Данные</div>
 </a> 
+[Данные](https://drive.google.com/drive/folders/1IyL5ma2G_eKLn119nscUDakTCNQTOFka?usp=sharing)
+
 Сведения о картах, счетах и клиентах хранятся в СУБД PostgreSQL.
 
 
